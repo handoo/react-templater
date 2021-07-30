@@ -1,15 +1,15 @@
 {
   "name": "@handoo/react-templater",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "create react component easily",
   "main": "index.js",
   "bin": {
     "hrt": "./index.js"
   },
   "author": {
-    "name" : "HANDOO",
-    "email" : "me@handoo.io",
-    "url" : "https://handoo.io/"
+    "name": "HANDOO",
+    "email": "me@handoo.io",
+    "url": "https://handoo.io/"
   },
   "repository": "github:handoo/react-templater.git",
   "homepage": "https://github.com/handoo/react-templater#readme",
