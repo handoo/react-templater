@@ -1,0 +1,25 @@
+import React, { Component, Fragment } from 'react';
+import './{COMPONENT_STYLE}';
+
+
+interface Props {
+}
+
+interface State {
+}
+
+class {COMPONENT_NAME} extends Component<Props, State> {
+    state = {
+    };
+
+    static defaultProps = {
+    };
+
+    render() {
+        return <Fragment>
+             {COMPONENT_NAME}
+        </Fragment>
+    };
+}
+
+export default {COMPONENT_NAME};

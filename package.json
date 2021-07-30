@@ -1,0 +1,25 @@
+{
+  "name": "@handoo/react-templater",
+  "version": "1.0.0",
+  "description": "create react component easily",
+  "main": "index.js",
+  "bin": {
+    "hrt": "./index.js"
+  },
+  "author": {
+    "name" : "HANDOO",
+    "email" : "me@handoo.io",
+    "url" : "https://handoo.io/"
+  },
+  "repository": "github:handoo/react-templater.git",
+  "homepage": "https://github.com/handoo/react-templater#readme",
+  "bugs": {
+    "url": "https://github.com/handoo/react-templater/issues",
+    "email": "me@handoo.io"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^8.0.0",
+    "fs": "0.0.1-security"
+  }
+}

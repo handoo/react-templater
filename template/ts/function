@@ -1,0 +1,16 @@
+import React from 'react';
+import './{COMPONENT_STYLE}';
+
+
+interface Props {
+}
+
+{COMPONENT_NAME}.defaultProps = {};
+
+export default function {COMPONENT_NAME}({}: Props) {
+    return (
+        <>
+            {COMPONENT_NAME}
+        </>
+    )
+};

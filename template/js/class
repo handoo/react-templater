@@ -1,0 +1,24 @@
+import React, { Component, Fragment } from 'react';
+import PropTypes from 'prop-types';
+import './{COMPONENT_STYLE}';
+
+
+class {COMPONENT_NAME} extends Component {
+  static defaultProps = {};
+
+  static propTypes = {
+  };
+
+  state = {
+  };
+
+  render() {
+    return (
+      <Fragment>
+        {COMPONENT_NAME}
+      </Fragment>
+    );
+  }
+}
+
+export default {COMPONENT_NAME};

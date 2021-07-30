@@ -1,0 +1,17 @@
+import React from 'react';
+import PropTypes from 'prop-types';
+import './{COMPONENT_STYLE}';
+
+
+function {COMPONENT_NAME}({}) {
+  return (
+    <>
+      {COMPONENT_NAME}
+    </>
+  );
+}
+
+{COMPONENT_NAME}.propTypes = {};
+{COMPONENT_NAME}.defaultProps = {};
+
+export default {COMPONENT_NAME};
